@@ -1,0 +1,5 @@
+IOT-Based Multimode Robot-M3R is a robot car with 3 modes
+mode1: Obstacle avoidance mode. Robot moves in an obstacle-less path
+mode2: In this mode, robot car control is given to the user i.e. Remote car.
+Mode3: In this mode, the robot follows an object in front of it.
+Robot car is controlled through the Blynk app by switching of modes, using it like a remote car, etc.
